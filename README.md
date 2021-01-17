@@ -1,4 +1,4 @@
 # JavaScript
-I am learning JavaScript from scratch by the taking the following course on Udemy:
+Learning JavaScript from scratch by the taking:
 
 **The Complete JavaScript Course 2020: From Zero to Expert!**
